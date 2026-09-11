@@ -1,10 +1,12 @@
 # Know Your Rights Kenya
 
+<img src="./assets/header.svg" width="100%" alt="Know Your Rights Kenya" />
+
 Mobile-first legal literacy for Kenyan citizens. Short, situation-based answers instead of statute dumps.
 
-## What it covers
+## Coverage
 
-- Rights during arrest and police encounters
+- Arrest and police encounters
 - Tenant and landlord disputes
 - Employment and labour complaints
 - Consumer protection
@@ -12,17 +14,13 @@ Mobile-first legal literacy for Kenyan citizens. Short, situation-based answers 
 
 ## Stack
 
-- React 19 + TypeScript
-- Vite + Tailwind CSS
-- Firebase
+React 19, TypeScript, Vite, Tailwind CSS, Firebase.
 
 ## Run locally
 
-```bash
-npm install
-cp .env.example .env.local
-npm run dev
-```
+    npm install
+    cp .env.example .env.local
+    npm run dev
 
 ## License
 
