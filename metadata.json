@@ -1,6 +1,4 @@
-{
-  "name": "",
-  "description": "",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+﻿{
+  "name": "Know Your Rights Kenya",
+  "description": "Legal rights explained for everyday Kenyans. Plain-language guidance for arrest, housing, employment, and consumer situations."
 }
