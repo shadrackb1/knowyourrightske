@@ -1,20 +1,29 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Know Your Rights Kenya
 
-# Run and deploy your AI Studio app
+Mobile-first legal literacy for Kenyan citizens. Short, situation-based answers instead of statute dumps.
 
-This contains everything you need to run your app locally.
+## What it covers
 
-View your app in AI Studio: https://ai.studio/apps/3a0e644b-a8a8-45d0-a2a1-9dc2b91c6653
+- Rights during arrest and police encounters
+- Tenant and landlord disputes
+- Employment and labour complaints
+- Consumer protection
+- How and where to get formal help
 
-## Run Locally
+## Stack
 
-**Prerequisites:**  Node.js
+- React 19 + TypeScript
+- Vite + Tailwind CSS
+- Firebase
 
+## Run locally
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+```bash
+npm install
+cp .env.example .env.local
+npm run dev
+```
+
+## License
+
+MIT
